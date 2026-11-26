@@ -1,0 +1,2 @@
+# GCP_multimodal_video_transcription
+Unlocking Multimodal Video Transcription with Gemini
